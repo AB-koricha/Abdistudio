@@ -1,15 +1,36 @@
 #Abdistudio
+
+
+
 ##DESCRIPTION
 this project help you to understand about the services we provide,and what we need from you as owner of business and how we reach to you with our services.
+
+
+
+
+
+
+
 ###TECHNOLOGY USED
 html,css,javaScript and Jquery.
+
+
+
 ####CONTRIBUTION
 any error or changes please do it
+
+
+
+
 #####INSTALLATION
 cd Abdistudio
 pwd
 atom . for atom users
 code . for code users
+
+
+
+
 ####LICENSES
 MIT License
 
